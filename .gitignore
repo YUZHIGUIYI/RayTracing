@@ -1,6 +1,9 @@
 # ignore these files
 bin/
 lib/
+cmake-build-debug-visual-studio/
+cmake-build-release-visual-studio/
+cmake-build-relwithdebinfo-visual-studio/
 cmake-build-debug/
 cmake-build-release/
 cmake-build-relwithdebinfo/

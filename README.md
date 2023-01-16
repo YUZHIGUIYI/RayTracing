@@ -6,6 +6,8 @@
 
 - This is my personal practice in RayTracing via [Vulkan SDK](https://vulkan.lunarg.com/sdk/home#windows).
 
+- Only tested on Windows platform.
+
 ## Requirements
 - [Visual Studio 2022](https://visualstudio.com)
 - [Vulkan SDK](https://vulkan.lunarg.com/sdk/home#windows)
@@ -13,7 +15,7 @@
 ## Usage
 ```shell
 cmake -B build 
-cmake --build build --config=Release
+cmake --build build
 ./bin/WalnutApp
 ```
 
